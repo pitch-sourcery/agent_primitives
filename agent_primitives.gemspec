@@ -15,7 +15,7 @@ Gem::Specification.new do |spec|
     imports the skills that teach a coding agent to keep it.
   TEXT
 
-  spec.homepage = "https://github.com/chrisrackstallion/agent_primitives"
+  spec.homepage = "https://github.com/pitch-sourcery/agent_primitives"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 3.3"
 
