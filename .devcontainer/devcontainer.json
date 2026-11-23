@@ -9,6 +9,9 @@
   "postCreateCommand": "bundle install",
   "customizations": {
     "vscode": {
+      "extensions": [
+        "anthropic.claude-code"
+      ],
       "settings": {
         "editor.insertSpaces": true,
         "files.eol": "\n",
